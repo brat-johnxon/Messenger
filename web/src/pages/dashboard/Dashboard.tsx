@@ -24,7 +24,7 @@ import { getHref } from "utils/get-file-url";
 function ProfileViewItem({ value, text }: { value: string; text: string }) {
   return (
     <div className="flex flex-col px-5 w-full">
-      <span className="font-bold text-sm th-color-for">{text}</span>
+      <span className="font-bold text-sm th-color-for">{text}XXXXX</span>
       <span className="font-normal truncate w-full th-color-for">{value}</span>
     </div>
   );
