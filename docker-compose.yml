@@ -10,7 +10,7 @@ services:
       - config_files:/app/config
 
   relatedchat_web:
-    image: relatedcode/relatedchat-web:latest
+    image: brat-johnxon/relatedchat-web:latest
     container_name: relatedchat_web
     ports:
       - "80:80"
