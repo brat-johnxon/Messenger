@@ -146,7 +146,7 @@ export default function Navbar() {
                   </div>
                   <div className="w-full h-px my-2 th-bg-selbg" />
                   <NavbarItem
-                    text="Edit profile"
+                    text="Edit profile NEW"
                     onClick={() => setOpenEditProfile(true)}
                   />
                   <NavbarItem

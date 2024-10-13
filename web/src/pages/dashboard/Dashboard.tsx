@@ -54,7 +54,7 @@ function ProfileView() {
           className="h-40 w-40 md:h-44 md:w-44 lg:h-56 lg:w-56 rounded mt-4 bg-cover"
           style={{
             backgroundImage: `url(${
-              photoURL || `${process.env.PUBLIC_URL}/blank_user2.png`
+              photoURL || `${process.env.PUBLIC_URL}/blank_user.png`
             })`,
           }}
         />
