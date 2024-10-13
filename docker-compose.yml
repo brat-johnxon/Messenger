@@ -10,7 +10,8 @@ services:
       - config_files:/app/config
 
   relatedchat_web:
-    image: brat-johnxon/relatedchat-web:latest
+    build: https://github.com/brat-johnxon/Messenger.git
+    image: relatedcode/relatedchat-web:latest
     container_name: relatedchat_web
     ports:
       - "80:80"
