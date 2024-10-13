@@ -37,7 +37,7 @@
     "react-helmet-async": "^1.2.2",
     "react-hot-toast": "^2.1.1",
     "react-intersection-observer": "^8.33.1",
-    "react-quill-new": "^2.0.0-beta.2",
+    "react-quill": "^2.0.0-beta.2",
     "react-router-dom": "v6.2.1",
     "react-scripts": "^4.0.3",
     "styled-components": "^5.3.3",
